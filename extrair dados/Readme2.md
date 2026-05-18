@@ -1,1 +1,2 @@
 O Montador_de_tabela tem como objetivo pegar alguns indices mais gerais das tabelas geradas pelo mosyn no formato de txt e depois gera tabelas no excel POR INDIVIDUO! É bastante importante saber o padrão dos nomes dos arquivos para que não ocorram confusões). Os indices são: Pathlength, Coeficiente de variação de variação (CVA), Coeficiente de Variação do Numero de Arestas (CVNA), Grau médio, Numero medio de arestas e Cluster médio
+Quanto ao remover_coluna_time, ele serve apenas para retirar a coluna do tempo, caso não tenha selecionado previamente essa opção pelo mosyn 
